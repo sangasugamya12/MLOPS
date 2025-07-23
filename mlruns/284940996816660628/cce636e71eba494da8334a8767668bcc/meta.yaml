@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/mlops/ml_project/mlruns/284940996816660628/cce636e71eba494da8334a8767668bcc/artifacts
+end_time: 1753251023617
+entry_point_name: ''
+experiment_id: '284940996816660628'
+lifecycle_stage: active
+run_id: cce636e71eba494da8334a8767668bcc
+run_name: languid-stork-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753251020427
+status: 3
+tags: []
+user_id: Sugamya
