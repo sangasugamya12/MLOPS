@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/mlops/ml_project/mlruns/284940996816660628/d15bb964ac2b41aab35f451d5d20bb12/artifacts
+end_time: 1753334217455
+entry_point_name: ''
+experiment_id: '284940996816660628'
+lifecycle_stage: active
+run_id: d15bb964ac2b41aab35f451d5d20bb12
+run_name: overjoyed-sheep-997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753334214734
+status: 3
+tags: []
+user_id: Sugamya
