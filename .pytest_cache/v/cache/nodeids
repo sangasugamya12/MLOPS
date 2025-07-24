@@ -1,0 +1,5 @@
+[
+  "tests/test_prediction.py::test_model_prediction",
+  "tests/test_preprocess.py::test_clean_data_columns",
+  "tests/test_train.py::test_train_model_runs"
+]
